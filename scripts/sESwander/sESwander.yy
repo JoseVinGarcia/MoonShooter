@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Enemy",
-    "path": "folders/Scripts/Enemy.yy",
+  "$GMScript":"v1",
+  "%Name":"sESwander",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sESwander",
+  "parent":{
+    "name":"Enemy",
+    "path":"folders/Scripts/Enemy.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sESwander",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

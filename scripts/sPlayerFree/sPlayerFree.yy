@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Player",
-    "path": "folders/Scripts/Player.yy",
+  "$GMScript":"v1",
+  "%Name":"sPlayerFree",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sPlayerFree",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sPlayerFree",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

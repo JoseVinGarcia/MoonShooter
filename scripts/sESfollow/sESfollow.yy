@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Enemy",
-    "path": "folders/Scripts/Enemy.yy",
+  "$GMScript":"v1",
+  "%Name":"sESfollow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sESfollow",
+  "parent":{
+    "name":"Enemy",
+    "path":"folders/Scripts/Enemy.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sESfollow",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
